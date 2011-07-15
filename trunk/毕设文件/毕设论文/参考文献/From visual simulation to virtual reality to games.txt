@@ -1,4 +1,0 @@
-Zyda, M.  [From visual simulation to virtual reality to games]
-
-During the past decades, the virtual reality community has based its development on a synthesis of earlier work in interactive 3D graphics, user interfaces, and visual simulation. Currently, the VR field is transitioning into work influenced by video games. Because much of the research and development being conducted in the games community parallels the VR community's efforts, it has the potential to affect a greater audience. Given these trends, VR researchers who want their work to remain relevant must realign to focus on game research and development. Leveraging technology from the visual simulation and virtual reality communities, serious games provide a delivery system for organizational video game instruction and training.
-

@@ -1,1 +1,0 @@
-Regsvr32 Converse3DViewer.ocx /u

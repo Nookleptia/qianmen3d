@@ -1,7 +1,8 @@
 gmail
 yanchenfei.email@gmail.com
 122318ycf
-SVN:https://qianmen3d.googlecode.com/svn/trunk/ 
+SVN:	https://qianmen3d.googlecode.com/svn/trunk/ 
+PW:	UE7kV4yf8dZ7
 
 sogouä¯ÀÀÆ÷
 yanchenfei_999@163.com	

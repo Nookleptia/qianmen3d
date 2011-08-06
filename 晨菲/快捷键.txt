@@ -1,0 +1,7 @@
+F5 刷新
+windows L 注销（待机）
+windows D 页面全关
+backspace 文件夹向上
+快捷键 ctrl 左边的键
+ctrl Z 撤销
+shift 方向键   选择

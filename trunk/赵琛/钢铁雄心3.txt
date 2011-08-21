@@ -1,1 +1,35 @@
-debug fow
+
+#########################
+# Get Resource #
+#########################
+country_event = {
+  	id = 888888
+  	is_triggered_only = yes
+        title = "fight together"
+	desc = ""
+	picture = "fire"
+	option = {
+	name = "infra"	 
+    		energy = 10000
+		metal = 10000
+		rare_materials = 10000
+		dissent = -5
+	}
+}
+
+
+#########################
+# Get Gov #
+#########################
+country_event = {
+  	id = 999999
+  	is_triggered_only = yes
+        title = "fight together"
+	desc = ""
+	picture = "fire"
+	option = {
+	name = "infra"
+		manpower = 500
+            	national_unity = 1
+	}
+}
